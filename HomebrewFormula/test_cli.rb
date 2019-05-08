@@ -1,8 +1,8 @@
 class TestCli < Formula
   desc "Test CLI"
   homepage "https://www.fullstackstanley.com/"
-  url "https://github.com/acoustep/test_cli/archive/v1.0.1.tar.gz"
-  sha256 "1edd4991a744ef3931c007ff63d89242b9da80357cda5dee0c6e605d362201e7"
+  url "https://github.com/acoustep/test_cli/archive/v1.0.2.tar.gz"
+  sha256 "6f2d694fdb0085a88a3b459ab41025ce608b9f1329d308dbe1c5d62bfae2b81e"
 
   depends_on "crystal"
 
