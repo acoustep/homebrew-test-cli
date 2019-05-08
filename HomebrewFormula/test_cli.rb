@@ -1,4 +1,4 @@
-class Amber < Formula
+class TestCli < Formula
   desc "Test CLI"
   homepage "https://www.fullstackstanley.com/"
   url "https://github.com/acoustep/test_cli/archive/v1.0.1.tar.gz"
